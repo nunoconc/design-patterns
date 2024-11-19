@@ -1,0 +1,21 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "Examples repository for design patterns study",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Nuno Conceicao",
+  "license": "ISC",
+  "devDependencies": {
+    "@jest/globals": "^29.7.0",
+    "@types/jest": "^29.5.14",
+    "@types/mocha": "^10.0.9",
+    "@types/node": "^22.9.0",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "typescript": "^5.6.3"
+  },
+  "type": "module"
+}
