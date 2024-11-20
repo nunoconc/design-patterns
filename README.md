@@ -31,3 +31,7 @@ design problem in your code.
 #### Singleton
 - Singleton is a creational design pattern that lets you ensure that a class has only one instance, while providing a global access point to this instance.
 Example: [Singleton](src/creational/singleton/Singleton.ts)
+
+#### Builder
+- Builder is a creational design pattern that lets you construct a complex object step by step. And a pattern like Director allows you to execute repetitive construction types.
+Example: [Builder](src/creational/builder/Builder.ts)
