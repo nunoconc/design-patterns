@@ -35,3 +35,7 @@ Example: [Singleton](src/creational/singleton/Singleton.ts)
 #### Builder
 - Builder is a creational design pattern that lets you construct a complex object step by step. And a pattern like Director allows you to execute repetitive construction types.
 Example: [Builder](src/creational/builder/Builder.ts)
+
+#### Factory Method
+- Factory Method is a creational design pattern that provides an interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created.
+Example: [Factory Method](src/creational/factory-method/FactoryMethod.ts)
