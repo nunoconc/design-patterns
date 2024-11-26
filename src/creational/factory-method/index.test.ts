@@ -12,6 +12,6 @@ describe('Factory Method', () => {
         expect(productA).toBeInstanceOf(Product);
         expect(productB).toBeInstanceOf(Product);
         expect(typeof productA).toBe(typeof productB);
-        expect(productA.doStuff()).not.toBe(productB.doStuff());
+        expect(productA.doStuff()).not.toEqual(productB.doStuff());
     });
 });
