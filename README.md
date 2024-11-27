@@ -47,3 +47,7 @@ Example: [Abstract Factory](src/creational/abstract-factory-method/Factory.ts)
 #### Prototype
 - Prototype is a creational design pattern that lets you copy existing objects without making your code dependent on their classes.
 Example: [Prototype](src/creational/prototype/Prototype.ts)
+
+#### Object Pool
+- Object Pool is a creational design pattern that uses a set of initialized objects kept ready to use – a "pool" – rather than allocating and destroying them on demand.
+Example: [Object Pool](src/creational/object-pool/ObjectPool.ts)
