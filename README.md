@@ -38,8 +38,12 @@ Example: [Builder](src/creational/builder/Builder.ts)
 
 #### Factory Method
 - Factory Method is a creational design pattern that provides an interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created.
-Example: [Factory Method](src/creational/factory-method/FactoryMethod.ts)
+Example: [Factory Method](src/creational/factory-method/Factory.ts)
 
 #### Abstract Factory
 - Abstract Factory is a creational design pattern that lets you produce families of related objects without specifying their concrete classes.
-Example: [Abstract Factory](src/creational/abstract-factory/AbstractFactory.ts)
+Example: [Abstract Factory](src/creational/abstract-factory-method/Factory.ts)
+
+#### Prototype
+- Prototype is a creational design pattern that lets you copy existing objects without making your code dependent on their classes.
+Example: [Prototype](src/creational/prototype/Prototype.ts)
